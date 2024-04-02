@@ -71,7 +71,7 @@
   height: 0px;
   border-radius: 50%;
   box-shadow:
-    0 0 200px 130px #c026d3; /* outer cyan */
+    0 0 200px 120px #FEFBF6; 
 }
 
 @layer base {
