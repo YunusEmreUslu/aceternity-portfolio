@@ -4,10 +4,12 @@ import HeroSection from './components/HeroSection'
 
 export default function page() {
   return (
-    <div className='min-h-screen bg-black'>
-      <div className='w-4/5 mx-auto p-5 overflow-hidden'>
-        <Navbar />
-        <HeroSection />
+    <div className='min-h-screen bg-black overflow-hidden'>
+      <div className='dark:bg-black bg-white  dark:bg-grid-white/[0.06] bg-grid-black/[0.2]'>
+        <div className='max-w-7xl mx-auto p-5 '> {/* adjust here */}
+          <Navbar />
+          <HeroSection />
+        </div>
       </div>
     </div>
   )
