@@ -2,7 +2,7 @@
 import React from 'react'
 import Title from './Title'
 import { HoverEffect } from '@/components/ui/card-hover-effect'
-import { SiReact, SiNextdotjs, SiTailwindcss, SiGit, SiCss3, SiHtml5, SiJavascript, SiTypescript, SiVite, SiPostgresql } from 'react-icons/si'
+import { SiReact, SiNextdotjs, SiTailwindcss, SiGit, SiCss3, SiHtml5, SiJavascript, SiTypescript, SiVite, SiPostgresql, SiFirebase } from 'react-icons/si'
 
 export default function Skills() {
 
