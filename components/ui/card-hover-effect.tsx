@@ -58,7 +58,7 @@ export const HoverEffect = ({
                     {item.text}
                 </p>
             </div>
-          </div>
+          </div> 
         </div>
         );
       })}
